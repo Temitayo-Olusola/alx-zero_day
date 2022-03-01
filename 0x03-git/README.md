@@ -1,1 +1,1 @@
-My base readme file
+This is my project's readme file
